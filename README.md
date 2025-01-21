@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiragzod
 - 👀 I’m interested in Data Analysis, visualization and dashboard creations
-- 🌱 I’m currently learning Python and DAX Query
+- 🌱 I’m currently learning Web Development (HTML, CSS, JAVA)
 - 💞️ I’m looking to collaborate on data analysis and visualizations
 - 📫 How to reach me chiragzodape24@gmail.com
 - 😄 Pronouns: He/Him
